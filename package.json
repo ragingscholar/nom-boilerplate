@@ -1,0 +1,19 @@
+{
+  "name": "npm-boilerplate",
+  "version": "1.0.0",
+  "description": "A npm boilerplate with babel and dotenv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragingscholar/npm-boilerplate.git"
+  },
+  "author": "Hai Lang <hailang@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ragingscholar/npm-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ragingscholar/npm-boilerplate#readme"
+}
